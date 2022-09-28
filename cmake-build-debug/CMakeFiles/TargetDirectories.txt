@@ -1,0 +1,13 @@
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad10.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad9.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad7.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad2.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad1.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/podgotvitelna_grupa_1.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad3.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad4.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad8.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad6.dir
+/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug/CMakeFiles/zad5.dir

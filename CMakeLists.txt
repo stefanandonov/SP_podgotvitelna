@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.21)
+project(podgotvitelna_grupa_1 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(podgotvitelna_grupa_1 main.c)
+add_executable(zad1 ciklusi/zad1.c)
+add_executable(zad2 ciklusi/zad2.c)
+add_executable(zad3 ciklusi/zad3.c)
+add_executable(zad4 ciklusi/zad4.c)
+add_executable(zad5 ciklusi/zad5.c)
+add_executable(zad6 ciklusi/zad6.c)
+add_executable(zad7 ciklusi/zad7.c)
+add_executable(zad8 ciklusi/zad8.c)
+add_executable(zad9 ciklusi/zad9.c)
+add_executable(zad10 ciklusi/zad10.c)

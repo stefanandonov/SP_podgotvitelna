@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "podgotvitelna_grupa_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "podgotvitelna_grupa_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-podgotvitelna_grupa_1-Debug-75e798d7f82d729cba83.json",
+					"name" : "podgotvitelna_grupa_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1-Debug-8ba1969bd34bc97b6349.json",
+					"name" : "zad1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad10-Debug-7162b4a6d55e0ceab893.json",
+					"name" : "zad10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2-Debug-856c40a9f0d0fdf1654c.json",
+					"name" : "zad2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad3-Debug-b50713c747e8e168c60b.json",
+					"name" : "zad3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4-Debug-4520aa750d26a9d0b5ab.json",
+					"name" : "zad4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad5-Debug-b6b0bcf3b2e623a3cdd3.json",
+					"name" : "zad5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad6-Debug-f45a425ee9ef7a7fc5e1.json",
+					"name" : "zad6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad7-Debug-94e0b07e100a55890840.json",
+					"name" : "zad7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad8-Debug-90aab9301e3c6a099437.json",
+					"name" : "zad8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad9-Debug-718797cf984dacae734f.json",
+					"name" : "zad9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1/cmake-build-debug",
+		"source" : "/Users/stefan.a/CLionProjects/podgotvitelna_grupa_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
